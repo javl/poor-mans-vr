@@ -1,0 +1,29 @@
+{
+  "name": "poor-mans-vr",
+  "version": "1.0.0",
+  "description": "Simple example of using a Neato vacuum robot to generate a 3d room",
+  "main": "mainapp.js",
+  "dependencies": {
+    "socket.io": "^1.5.1",
+    "syc": "^2.0.5",
+    "serialport": "^4.0.4",
+    "express": "^4.14.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/javl/poor-mans-vr.git"
+  },
+  "keywords": [
+    "vr",
+    "neato",
+    "robot",
+    "cardboard"
+  ],
+  "author": "javl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/javl/poor-mans-vr/issues"
+  },
+  "homepage": "https://github.com/javl/poor-mans-vr#readme"
+}
